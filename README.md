@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Store Project
 
-[Link](https://www.pantofleskastorias.gr/)
+## 🖥️ [Pantofles Kastorias](https://www.pantofleskastorias.gr/)
 
 This project demonstrates the creation of a robust e-commerce platform,
 focusing on enhancing user experience and operational efficiency.
